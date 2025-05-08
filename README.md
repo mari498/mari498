@@ -1,41 +1,11 @@
-""<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maria Amir's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            padding: 15px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        .links a {
-            margin-right: 15px;
-            color: #0066cc;
-            text-decoration: none;
-        }
-        .links a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            margin: 10px 0;
-        }
-    </style>
+   
 </head>
 <body>
-
     <div class="section">
         <h1>Maria Amir</h1>
         <p>Backend Learner at ALX | Aspiring Marketing Data Analyst | Passionate about Data-Driven Strategies and Global Business Expansion</p>
@@ -44,7 +14,6 @@
             <a href="https://www.linkedin.com/in/maria-amir">LinkedIn</a>
         </div>
     </div>
-
     <div class="section">
         <h2>About Me</h2>
         <p>
@@ -53,7 +22,6 @@
             I am passionate about combining creative marketing with data science to support business growth, drive customer engagement, and expand into international markets.
         </p>
     </div>
-
     <div class="section">
         <h2>Key Projects I Want to Work On</h2>
         <ul>
@@ -65,7 +33,6 @@
             <li><strong>Email Campaign Performance Analysis:</strong> Measure the open rates, CTRs, and conversions of email campaigns, and A/B test different formats and content.</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Skills & Tools</h2>
         <ul>
@@ -76,11 +43,10 @@
             <li>Business Intelligence and Market Research</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Contact Me</h2>
-        <p>You can reach me on <a href="mailto:maria.amir@example.com">maria.amir@example.com</a> or through my LinkedIn profile.</p>
+        <p>You can reach me on <a href="mailto:maria2006amir@gmail.com">maria2006amir@gmail.com</a> or through my LinkedIn profile.</p>
     </div>
 
 </body>
-</html>""
+</html>
