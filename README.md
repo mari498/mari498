@@ -3,98 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maria Amir | Software Engineer & Data Science Enthusiast</title>
+    <title>Maria Amir's GitHub Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            background-color: #f9f9f9;
             margin: 0;
             padding: 20px;
-            background-color: #f9f9f9;
         }
         h1, h2 {
             color: #333;
         }
         .section {
-            margin-bottom: 30px;
+            margin-bottom: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-        .section-title {
-            font-size: 1.5em;
-            border-bottom: 2px solid #4CAF50;
-            padding-bottom: 5px;
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #4CAF50;
+        .links a {
+            margin-right: 15px;
+            color: #0066cc;
             text-decoration: none;
         }
-        a:hover {
+        .links a:hover {
             text-decoration: underline;
         }
-        .badge {
-            background-color: #4CAF50;
-            color: white;
-            padding: 3px 7px;
-            border-radius: 5px;
-            font-size: 0.9em;
+        ul {
+            margin: 10px 0;
         }
     </style>
 </head>
 <body>
 
-<h1>Maria Amir</h1>
-<p><em>Software Engineer & Data Science Enthusiast | ALX Backend Learner | Passionate about harnessing technology to solve real-world problems.</em></p>
+    <div class="section">
+        <h1>Maria Amir</h1>
+        <p>Backend Learner at ALX | Aspiring Marketing Data Analyst | Passionate about Data-Driven Strategies and Global Business Expansion</p>
+        <div class="links">
+            <a href="https://github.com/mari498">GitHub</a>
+            <a href="https://www.linkedin.com/in/maria-amir">LinkedIn</a>
+        </div>
+    </div>
 
-<div class="section">
-    <div class="section-title">👋 About Me</div>
-    <p>I am a dedicated software engineering student at ALX, with a strong passion for data science. My journey into technology is fueled by a desire to understand complex systems, derive insights from data, and build impactful solutions. I am actively seeking opportunities to work on innovative projects that challenge my skills and expand my knowledge.</p>
-</div>
+    <div class="section">
+        <h2>About Me</h2>
+        <p>
+            I aim to become a highly skilled Marketing Data Analyst, using data-driven strategies to optimize marketing performance and uncover customer insights. 
+            My ultimate goal is to leverage my skills in data analysis, digital marketing, and business intelligence to scale my family business and transform it into a globally recognized brand.
+            I am passionate about combining creative marketing with data science to support business growth, drive customer engagement, and expand into international markets.
+        </p>
+    </div>
 
-<div class="section">
-    <div class="section-title">🔭 Currently Working On</div>
-    <ul>
-        <li>Backend development projects with ALX curriculum</li>
-        <li>Building full-stack applications to enhance my portfolio</li>
-        <li>Learning data science concepts and hands-on projects</li>
-    </ul>
-</div>
+    <div class="section">
+        <h2>Key Projects I Want to Work On</h2>
+        <ul>
+            <li><strong>Customer Segmentation Project:</strong> Analyze customer data to group buyers by behavior, preferences, and location to create personalized marketing campaigns for the family business.</li>
+            <li><strong>Marketing Funnel Optimization:</strong> Track user journey from awareness to purchase using tools like Google Analytics and Power BI to identify where potential customers drop off and improve conversions.</li>
+            <li><strong>Social Media Performance Dashboard:</strong> Build a real-time Power BI dashboard to track social media KPIs (engagement, reach, ROI) to guide content strategy and ad targeting.</li>
+            <li><strong>Product Trend Analysis:</strong> Use historical sales and search data to identify trending products and seasons for demand to plan inventory and marketing efforts.</li>
+            <li><strong>Global Market Entry Feasibility Study:</strong> Conduct competitor analysis, audience targeting, and ROI projections for entering new international markets using tools like SEMrush, Google Trends, and Meta Ads data.</li>
+            <li><strong>Email Campaign Performance Analysis:</strong> Measure the open rates, CTRs, and conversions of email campaigns, and A/B test different formats and content.</li>
+        </ul>
+    </div>
 
-<div class="section">
-    <div class="section-title">🌱 Learning Journey</div>
-    <ul>
-        <li>Backend Development with <span class="badge">ALX</span></li>
-        <li>Frontend Development | Self-learning</li>
-        <li>Power BI for data visualization | Starting in June</li>
-        <li>Digital Marketing | Current Scholarship</li>
-    </ul>
-</div>
+    <div class="section">
+        <h2>Skills & Tools</h2>
+        <ul>
+            <li>Data Analysis: Power BI, Excel, Google Analytics</li>
+            <li>Programming: Python, SQL, JavaScript</li>
+            <li>Marketing Tools: SEMrush, Meta Ads, Google Trends</li>
+            <li>Digital Marketing Strategies and Campaign Optimization</li>
+            <li>Business Intelligence and Market Research</li>
+        </ul>
+    </div>
 
-<div class="section">
-    <div class="section-title">💡 Goals & Vision</div>
-    <p>My vision is to [Insert your vision], and I am committed to working on projects that [Insert the types of projects you would like to work on]. I aspire to create technology solutions that are both innovative and impactful, contributing to a more data-driven world.</p>
-</div>
-
-<div class="section">
-    <div class="section-title">📫 Get in Touch</div>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/mariaamir">LinkedIn</a></li>
-        <li><a href="https://github.com/mariaamir">GitHub</a></li>
-        <li>Email: [Insert your email here]</li>
-    </ul>
-</div>
+    <div class="section">
+        <h2>Contact Me</h2>
+        <p>You can reach me on <a href="mailto:maria.amir@example.com">maria.amir@example.com</a> or through my LinkedIn profile.</p>
+    </div>
 
 </body>
-</html>
-""
-
-<!---
-mari498/mari498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</html>""
